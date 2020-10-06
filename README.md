@@ -24,3 +24,11 @@ Según avancemos en las clases,(en  los casos prácticos),  iremos incrementado 
 * A personas que se inicien en la programación
 * Estudiantes que quieran mejorar sus conocimientos de programación
 * Programadores que quieran aprender el lenguaje Python
+
+# Ejercicios de programacion python con solucion
+## Obtenidos de otro curso similar
+(https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/)
+
+http://www.pythondiario.com/p/ejercicios-de-programacion-python.html
+
+https://aprendeconalf.es/docencia/python/ejercicios/
